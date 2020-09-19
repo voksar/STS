@@ -1,0 +1,8 @@
+up = Up
+down = Down
+left = Left
+right = Right
+width = 1000
+height = 1000
+shoot = Space
+fullscreen = false
